@@ -1,0 +1,20 @@
+h1{color: gold; text-align: center;font-family: 'Tilt Prism', cursive;
+
+}
+h2{color: rgb(12, 12, 12); text-align: center;font-family: 'Mynerve', cursive;
+
+}
+p{
+    color: rgb(19, 19, 18);
+    display: flex;
+    justify-content: center;font-family: 'Gloock', serif;
+}
+body{background-color:rgb(48, 58, 58) ; background-image:url(https://www.teahub.io/photos/full/223-2234471_fondos-de-pantalla-para-pc-del-universo.jpg);
+
+}
+em{ color: rgb(20, 19, 19);
+    display: flex;
+    justify-content: center;font-family: 'Gloock', serif;
+
+}
+ 
